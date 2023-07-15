@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ethernet.h": "c",
+        "arduino-timer.h": "c",
+        "iosconfig.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
